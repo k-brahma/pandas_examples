@@ -1,0 +1,13 @@
+# 除外するディレクトリを指定する
+
+# venv は除外
+venv/*
+# __pycache__ は除外
+__pycache__/*
+
+# IDEの設定ファイルは除外
+.idea/*
+.vscode/*
+
+
+
